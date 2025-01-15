@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PracticalTest02v2</string>
+    <string name="wordDefinition">First type a word...</string>
 </resources>
